@@ -10,7 +10,7 @@ gray with a slight tint.
 # Exporting PNGs
 
 Exported PNGs go in the docs folder and are committed in the repository. These images are
-made available at logos.mwtaylor.dev for linking.
+made available at logo.mwtaylor.dev for linking.
 
 Exported PNGs are always square and named "elephant<width in pixels>.png".
 
